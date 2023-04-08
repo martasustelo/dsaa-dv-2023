@@ -48,7 +48,7 @@ trades = pd.read_csv(basedir + "trades.csv", delimiter=';')
 consump_price = pd.read_csv(basedir + "scatter_consumption_price.csv", delimiter=';')
 consumption = pd.read_csv(basedir + "consumption.csv", delimiter=';', dtype={'consumption': float})
 
-consumption['valor'] = consumption['valor'].str.replace(',', '.').astype(float)
+consumption['consumption'] = consumption['consumption'].str.replace(',', '.').astype(float)
 
 
 ####Data Cleaning
