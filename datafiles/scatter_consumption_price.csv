@@ -1,0 +1,1441 @@
+﻿country;year;foodcategories;consumption;hicp
+Austria;2014;Cereals and Grains ;943;74,57
+Austria;2014;Fruit and Vegetables ;234;84,015
+Austria;2014;Oils and Fats ;863;73,26
+Austria;2014;Meat ;427;77,92
+Austria;2014;Dairy and Eggs ;296;76,4
+Austria;2015;Fruit and Vegetables ;243;85,17
+Austria;2015;Cereals and Grains ;929;75,92
+Austria;2015;Dairy and Eggs ;290;78,62
+Austria;2015;Oils and Fats ;971;76,12
+Austria;2015;Meat ;414;79,91
+Austria;2016;Dairy and Eggs ;303;90,94
+Austria;2016;Fruit and Vegetables ;255;91,305
+Austria;2016;Cereals and Grains ;940;82,81
+Austria;2016;Meat ;429;82,34
+Austria;2016;Oils and Fats ;962;86,36
+Austria;2017;Cereals and Grains ;910;87,41
+Austria;2017;Meat ;408;87,05
+Austria;2017;Dairy and Eggs ;312;88,48
+Austria;2017;Fruit and Vegetables ;274;91,625
+Austria;2017;Oils and Fats ;975;87,09
+Austria;2018;Oils and Fats ;1025;85,59
+Austria;2018;Meat ;420;85,77
+Austria;2018;Dairy and Eggs ;303;86,23
+Austria;2018;Fruit and Vegetables ;240;87,84
+Austria;2018;Cereals and Grains ;893;86,91
+Austria;2019;Oils and Fats ;1052;87,52
+Austria;2019;Meat ;423;86,8
+Austria;2019;Dairy and Eggs ;302;87,16
+Austria;2019;Fruit and Vegetables ;247;94,11
+Austria;2019;Cereals and Grains ;870;88,62
+Austria;2020;Oils and Fats ;1017;97,47
+Austria;2020;Cereals and Grains ;882;91,03
+Austria;2020;Meat ;416;90,77
+Austria;2020;Dairy and Eggs ;305;92,59
+Austria;2020;Fruit and Vegetables ;273;93,06
+Austria;2021;Cereals and Grains ;891;94,85
+Austria;2021;Fruit and Vegetables ;263;98,1
+Austria;2021;Oils and Fats ;1031;96,78
+Austria;2021;Meat ;399;98,34
+Austria;2021;Dairy and Eggs ;319;93,77
+Austria;2022;Fruit and Vegetables ;261;100,075
+Austria;2022;Cereals and Grains ;887;96,98
+Austria;2022;Dairy and Eggs ;326;99,82
+Austria;2022;Oils and Fats ;1045;102,61
+Austria;2022;Meat ;416;99,1
+Belgium;2014;Cereals and Grains ;841;73,67
+Belgium;2014;Fruit and Vegetables ;194;80,57
+Belgium;2014;Oils and Fats ;1007;69,23
+Belgium;2014;Meat ;341;81,79
+Belgium;2014;Dairy and Eggs ;417;75,82
+Belgium;2015;Fruit and Vegetables ;216;85,115
+Belgium;2015;Cereals and Grains ;844;76,56
+Belgium;2015;Dairy and Eggs ;420;77,86
+Belgium;2015;Oils and Fats ;1014;73,27
+Belgium;2015;Meat ;327;84,24
+Belgium;2016;Dairy and Eggs ;415;89,08
+Belgium;2016;Fruit and Vegetables ;216;87,715
+Belgium;2016;Cereals and Grains ;838;84,33
+Belgium;2016;Meat ;345;86,12
+Belgium;2016;Oils and Fats ;1022;78,43
+Belgium;2017;Cereals and Grains ;857;89,15
+Belgium;2017;Meat ;296;89,24
+Belgium;2017;Dairy and Eggs ;453;91,77
+Belgium;2017;Fruit and Vegetables ;219;88,61
+Belgium;2017;Oils and Fats ;997;87,03
+Belgium;2018;Oils and Fats ;997;84,82
+Belgium;2018;Meat ;289;90,33
+Belgium;2018;Dairy and Eggs ;414;93,21
+Belgium;2018;Fruit and Vegetables ;207;83,765
+Belgium;2018;Cereals and Grains ;892;88,83
+Belgium;2019;Oils and Fats ;1005;87,65
+Belgium;2019;Meat ;300;91,45
+Belgium;2019;Dairy and Eggs ;398;92,5
+Belgium;2019;Fruit and Vegetables ;193;94,12
+Belgium;2019;Cereals and Grains ;914;90,79
+Belgium;2020;Oils and Fats ;1053;98,36
+Belgium;2020;Cereals and Grains ;913;95,39
+Belgium;2020;Meat ;296;94,15
+Belgium;2020;Dairy and Eggs ;414;96,32
+Belgium;2020;Fruit and Vegetables ;176;90,555
+Belgium;2021;Cereals and Grains ;920;98,13
+Belgium;2021;Fruit and Vegetables ;182;96,985
+Belgium;2021;Oils and Fats ;983;97,74
+Belgium;2021;Meat ;319;97,08
+Belgium;2021;Dairy and Eggs ;414;98,06
+Belgium;2022;Fruit and Vegetables ;203;96,965
+Belgium;2022;Cereals and Grains ;905;99,47
+Belgium;2022;Dairy and Eggs ;428;101,15
+Belgium;2022;Oils and Fats ;988;99,71
+Belgium;2022;Meat ;313;99,94
+Bulgaria;2014;Cereals and Grains ;1024;57,43
+Bulgaria;2014;Fruit and Vegetables ;78;77,205
+Bulgaria;2014;Oils and Fats ;513;61,68
+Bulgaria;2014;Meat ;213;79,49
+Bulgaria;2014;Dairy and Eggs ;290;58,22
+Bulgaria;2015;Fruit and Vegetables ;93;77,44
+Bulgaria;2015;Cereals and Grains ;1048;64,39
+Bulgaria;2015;Dairy and Eggs ;302;60,99
+Bulgaria;2015;Oils and Fats ;488;63,06
+Bulgaria;2015;Meat ;201;80,55
+Bulgaria;2016;Dairy and Eggs ;271;77,87
+Bulgaria;2016;Fruit and Vegetables ;117;89,975
+Bulgaria;2016;Cereals and Grains ;1017;88,41
+Bulgaria;2016;Meat ;206;84,79
+Bulgaria;2016;Oils and Fats ;502;103,18
+Bulgaria;2017;Cereals and Grains ;1067;93,39
+Bulgaria;2017;Meat ;225;98,97
+Bulgaria;2017;Dairy and Eggs ;272;81,7
+Bulgaria;2017;Fruit and Vegetables ;92;88,37
+Bulgaria;2017;Oils and Fats ;484;94,66
+Bulgaria;2018;Oils and Fats ;505;80,99
+Bulgaria;2018;Meat ;246;95,83
+Bulgaria;2018;Dairy and Eggs ;248;80,82
+Bulgaria;2018;Fruit and Vegetables ;85;83,83
+Bulgaria;2018;Cereals and Grains ;1094;88,38
+Bulgaria;2019;Oils and Fats ;514;106,51
+Bulgaria;2019;Meat ;240;94,54
+Bulgaria;2019;Dairy and Eggs ;258;85,94
+Bulgaria;2019;Fruit and Vegetables ;91;86,61
+Bulgaria;2019;Cereals and Grains ;1112;92,77
+Bulgaria;2020;Oils and Fats ;479;107,28
+Bulgaria;2020;Cereals and Grains ;1101;98,75
+Bulgaria;2020;Meat ;256;98,75
+Bulgaria;2020;Dairy and Eggs ;263;92,67
+Bulgaria;2020;Fruit and Vegetables ;103;83,27
+Bulgaria;2021;Cereals and Grains ;1106;101,83
+Bulgaria;2021;Fruit and Vegetables ;106;90,64
+Bulgaria;2021;Oils and Fats ;489;113,77
+Bulgaria;2021;Meat ;250;106,71
+Bulgaria;2021;Dairy and Eggs ;268;96,99
+Bulgaria;2022;Fruit and Vegetables ;130;88,74
+Bulgaria;2022;Cereals and Grains ;1102;99,53
+Bulgaria;2022;Dairy and Eggs ;292;99,71
+Bulgaria;2022;Oils and Fats ;489;104,37
+Bulgaria;2022;Meat ;242;105,1
+Croatia;2014;Cereals and Grains ;888;73,07
+Croatia;2014;Fruit and Vegetables ;146;69,315
+Croatia;2014;Oils and Fats ;544;86,37
+Croatia;2014;Meat ;249;91,42
+Croatia;2014;Dairy and Eggs ;341;73,61
+Croatia;2015;Fruit and Vegetables ;183;69,105
+Croatia;2015;Cereals and Grains ;848;74,04
+Croatia;2015;Dairy and Eggs ;367;74,94
+Croatia;2015;Oils and Fats ;590;88,57
+Croatia;2015;Meat ;284;90,77
+Croatia;2016;Dairy and Eggs ;356;88,13
+Croatia;2016;Fruit and Vegetables ;202;82,29
+Croatia;2016;Cereals and Grains ;837;81,43
+Croatia;2016;Meat ;296;93,64
+Croatia;2016;Oils and Fats ;611;114,89
+Croatia;2017;Cereals and Grains ;851;91,26
+Croatia;2017;Meat ;303;101,2
+Croatia;2017;Dairy and Eggs ;349;91
+Croatia;2017;Fruit and Vegetables ;205;81,605
+Croatia;2017;Oils and Fats ;613;112,04
+Croatia;2018;Oils and Fats ;526;95,03
+Croatia;2018;Meat ;323;98,04
+Croatia;2018;Dairy and Eggs ;333;87,06
+Croatia;2018;Fruit and Vegetables ;213;80,625
+Croatia;2018;Cereals and Grains ;887;91,69
+Croatia;2019;Oils and Fats ;469;109,74
+Croatia;2019;Meat ;293;93,28
+Croatia;2019;Dairy and Eggs ;328;87,43
+Croatia;2019;Fruit and Vegetables ;201;86,505
+Croatia;2019;Cereals and Grains ;901;92,51
+Croatia;2020;Oils and Fats ;468;116,91
+Croatia;2020;Cereals and Grains ;908;97,29
+Croatia;2020;Meat ;298;97,16
+Croatia;2020;Dairy and Eggs ;335;92,31
+Croatia;2020;Fruit and Vegetables ;203;84,565
+Croatia;2021;Cereals and Grains ;903;99,01
+Croatia;2021;Fruit and Vegetables ;178;97,33
+Croatia;2021;Oils and Fats ;505;118,54
+Croatia;2021;Meat ;337;104,29
+Croatia;2021;Dairy and Eggs ;348;97,55
+Croatia;2022;Fruit and Vegetables ;198;95,62
+Croatia;2022;Cereals and Grains ;917;100,27
+Croatia;2022;Dairy and Eggs ;349;102,94
+Croatia;2022;Oils and Fats ;531;100,6
+Croatia;2022;Meat ;329;102,43
+Cyprus;2014;Cereals and Grains ;566;72,19
+Cyprus;2014;Fruit and Vegetables ;197;71,31
+Cyprus;2014;Oils and Fats ;482;70,92
+Cyprus;2014;Meat ;383;82,7
+Cyprus;2014;Dairy and Eggs ;298;82,75
+Cyprus;2015;Fruit and Vegetables ;214;83,62
+Cyprus;2015;Cereals and Grains ;559;73,03
+Cyprus;2015;Dairy and Eggs ;285;86,01
+Cyprus;2015;Oils and Fats ;549;77,23
+Cyprus;2015;Meat ;377;85,97
+Cyprus;2016;Dairy and Eggs ;284;90,29
+Cyprus;2016;Fruit and Vegetables ;220;85,295
+Cyprus;2016;Cereals and Grains ;641;81,21
+Cyprus;2016;Meat ;384;89,63
+Cyprus;2016;Oils and Fats ;497;79,91
+Cyprus;2017;Cereals and Grains ;672;91,17
+Cyprus;2017;Meat ;375;96,61
+Cyprus;2017;Dairy and Eggs ;304;93,99
+Cyprus;2017;Fruit and Vegetables ;188;96,765
+Cyprus;2017;Oils and Fats ;508;91,01
+Cyprus;2018;Oils and Fats ;546;83,55
+Cyprus;2018;Meat ;369;98,76
+Cyprus;2018;Dairy and Eggs ;283;96,54
+Cyprus;2018;Fruit and Vegetables ;191;91,78
+Cyprus;2018;Cereals and Grains ;665;91,18
+Cyprus;2019;Oils and Fats ;516;85,01
+Cyprus;2019;Meat ;367;98,07
+Cyprus;2019;Dairy and Eggs ;285;96,37
+Cyprus;2019;Fruit and Vegetables ;193;85,72
+Cyprus;2019;Cereals and Grains ;724;92,49
+Cyprus;2020;Oils and Fats ;558;94,93
+Cyprus;2020;Cereals and Grains ;669;101,72
+Cyprus;2020;Meat ;374;103,63
+Cyprus;2020;Dairy and Eggs ;312;98,32
+Cyprus;2020;Fruit and Vegetables ;194;100,15
+Cyprus;2021;Cereals and Grains ;733;101,07
+Cyprus;2021;Fruit and Vegetables ;163;97,115
+Cyprus;2021;Oils and Fats ;520;95,72
+Cyprus;2021;Meat ;380;105,39
+Cyprus;2021;Dairy and Eggs ;290;98,98
+Cyprus;2022;Fruit and Vegetables ;153;97,455
+Cyprus;2022;Cereals and Grains ;756;98,9
+Cyprus;2022;Dairy and Eggs ;263;100,06
+Cyprus;2022;Oils and Fats ;532;97,02
+Cyprus;2022;Meat ;358;104,03
+Czechia;2014;Cereals and Grains ;978;69,5
+Czechia;2014;Fruit and Vegetables ;128;75,95
+Czechia;2014;Oils and Fats ;649;72,1
+Czechia;2014;Meat ;366;84,5
+Czechia;2014;Dairy and Eggs ;350;74,2
+Czechia;2015;Fruit and Vegetables ;125;78,65
+Czechia;2015;Cereals and Grains ;930;76,3
+Czechia;2015;Dairy and Eggs ;330;74,2
+Czechia;2015;Oils and Fats ;747;70,7
+Czechia;2015;Meat ;355;82,6
+Czechia;2016;Dairy and Eggs ;331;89,9
+Czechia;2016;Fruit and Vegetables ;131;85,15
+Czechia;2016;Cereals and Grains ;909;92
+Czechia;2016;Meat ;358;85,5
+Czechia;2016;Oils and Fats ;721;86
+Czechia;2017;Cereals and Grains ;878;94,6
+Czechia;2017;Meat ;351;88,4
+Czechia;2017;Dairy and Eggs ;320;83,7
+Czechia;2017;Fruit and Vegetables ;142;75,3
+Czechia;2017;Oils and Fats ;757;85
+Czechia;2018;Oils and Fats ;745;80,9
+Czechia;2018;Meat ;349;86,8
+Czechia;2018;Dairy and Eggs ;312;80,7
+Czechia;2018;Fruit and Vegetables ;131;75,9
+Czechia;2018;Cereals and Grains ;875;83,1
+Czechia;2019;Oils and Fats ;777;88,8
+Czechia;2019;Meat ;347;86,6
+Czechia;2019;Dairy and Eggs ;323;84,4
+Czechia;2019;Fruit and Vegetables ;123;93
+Czechia;2019;Cereals and Grains ;878;87,2
+Czechia;2020;Oils and Fats ;728;98,4
+Czechia;2020;Cereals and Grains ;910;98,2
+Czechia;2020;Meat ;336;90,5
+Czechia;2020;Dairy and Eggs ;307;92,6
+Czechia;2020;Fruit and Vegetables ;127;83,65
+Czechia;2021;Cereals and Grains ;855;99
+Czechia;2021;Fruit and Vegetables ;111;92,8
+Czechia;2021;Oils and Fats ;776;95,9
+Czechia;2021;Meat ;316;98,4
+Czechia;2021;Dairy and Eggs ;325;95,3
+Czechia;2022;Fruit and Vegetables ;125;99,5
+Czechia;2022;Cereals and Grains ;861;99,9
+Czechia;2022;Dairy and Eggs ;323;103,9
+Czechia;2022;Oils and Fats ;786;102,7
+Czechia;2022;Meat ;306;100,8
+Denmark;2014;Cereals and Grains ;844;75,8
+Denmark;2014;Fruit and Vegetables ;201;81,1
+Denmark;2014;Oils and Fats ;636;64,1
+Denmark;2014;Meat ;435;92,7
+Denmark;2014;Dairy and Eggs ;405;76,9
+Denmark;2015;Fruit and Vegetables ;203;88,65
+Denmark;2015;Cereals and Grains ;869;77,4
+Denmark;2015;Dairy and Eggs ;409;79,4
+Denmark;2015;Oils and Fats ;606;64,8
+Denmark;2015;Meat ;387;95,2
+Denmark;2016;Dairy and Eggs ;355;90,2
+Denmark;2016;Fruit and Vegetables ;194;94,7
+Denmark;2016;Cereals and Grains ;853;86,9
+Denmark;2016;Meat ;457;94,1
+Denmark;2016;Oils and Fats ;592;73,7
+Denmark;2017;Cereals and Grains ;858;91,6
+Denmark;2017;Meat ;380;97,9
+Denmark;2017;Dairy and Eggs ;406;91,3
+Denmark;2017;Fruit and Vegetables ;197;98,2
+Denmark;2017;Oils and Fats ;590;82,1
+Denmark;2018;Oils and Fats ;641;80,6
+Denmark;2018;Meat ;377;94,6
+Denmark;2018;Dairy and Eggs ;398;85,4
+Denmark;2018;Fruit and Vegetables ;223;90,3
+Denmark;2018;Cereals and Grains ;852;90,5
+Denmark;2019;Oils and Fats ;601;88,1
+Denmark;2019;Meat ;426;95,9
+Denmark;2019;Dairy and Eggs ;376;91,8
+Denmark;2019;Fruit and Vegetables ;220;94,75
+Denmark;2019;Cereals and Grains ;928;91,4
+Denmark;2020;Oils and Fats ;630;109,3
+Denmark;2020;Cereals and Grains ;853;99,2
+Denmark;2020;Meat ;402;99,7
+Denmark;2020;Dairy and Eggs ;398;97,9
+Denmark;2020;Fruit and Vegetables ;216;93,25
+Denmark;2021;Cereals and Grains ;852;100
+Denmark;2021;Fruit and Vegetables ;203;97,85
+Denmark;2021;Oils and Fats ;623;112,1
+Denmark;2021;Meat ;421;103,7
+Denmark;2021;Dairy and Eggs ;375;97,9
+Denmark;2022;Fruit and Vegetables ;197;97,9
+Denmark;2022;Cereals and Grains ;849;100,6
+Denmark;2022;Dairy and Eggs ;392;100,9
+Denmark;2022;Oils and Fats ;621;100,1
+Denmark;2022;Meat ;441;99,1
+Estonia;2014;Cereals and Grains ;879;61,81
+Estonia;2014;Fruit and Vegetables ;143;60,57
+Estonia;2014;Oils and Fats ;317;55,78
+Estonia;2014;Meat ;291;73,91
+Estonia;2014;Dairy and Eggs ;419;67,32
+Estonia;2015;Fruit and Vegetables ;133;71,01
+Estonia;2015;Cereals and Grains ;890;66,89
+Estonia;2015;Dairy and Eggs ;424;69,04
+Estonia;2015;Oils and Fats ;318;61,34
+Estonia;2015;Meat ;305;75,36
+Estonia;2016;Dairy and Eggs ;402;92,29
+Estonia;2016;Fruit and Vegetables ;165;80,045
+Estonia;2016;Cereals and Grains ;899;81,53
+Estonia;2016;Meat ;334;84,37
+Estonia;2016;Oils and Fats ;288;79,13
+Estonia;2017;Cereals and Grains ;1052;90,58
+Estonia;2017;Meat ;314;90,32
+Estonia;2017;Dairy and Eggs ;422;92,46
+Estonia;2017;Fruit and Vegetables ;166;80,21
+Estonia;2017;Oils and Fats ;304;89,95
+Estonia;2018;Oils and Fats ;319;84,71
+Estonia;2018;Meat ;316;86,58
+Estonia;2018;Dairy and Eggs ;424;80,32
+Estonia;2018;Fruit and Vegetables ;175;68,565
+Estonia;2018;Cereals and Grains ;1076;85,64
+Estonia;2019;Oils and Fats ;285;93,89
+Estonia;2019;Meat ;329;87,64
+Estonia;2019;Dairy and Eggs ;398;94,24
+Estonia;2019;Fruit and Vegetables ;170;90,065
+Estonia;2019;Cereals and Grains ;1036;93,68
+Estonia;2020;Oils and Fats ;260;106,52
+Estonia;2020;Cereals and Grains ;1036;96,72
+Estonia;2020;Meat ;318;94,47
+Estonia;2020;Dairy and Eggs ;406;95,27
+Estonia;2020;Fruit and Vegetables ;176;80,17
+Estonia;2021;Cereals and Grains ;1061;98,62
+Estonia;2021;Fruit and Vegetables ;167;90,995
+Estonia;2021;Oils and Fats ;331;107,37
+Estonia;2021;Meat ;288;101,86
+Estonia;2021;Dairy and Eggs ;427;100,06
+Estonia;2022;Fruit and Vegetables ;174;91,11
+Estonia;2022;Cereals and Grains ;1044;100,1
+Estonia;2022;Dairy and Eggs ;459;102,36
+Estonia;2022;Oils and Fats ;289;107,51
+Estonia;2022;Meat ;276;104,45
+Finland;2014;Cereals and Grains ;888;82,71
+Finland;2014;Fruit and Vegetables ;145;79,1
+Finland;2014;Oils and Fats ;411;80,91
+Finland;2014;Meat ;578;79,07
+Finland;2014;Dairy and Eggs ;459;79,5
+Finland;2015;Fruit and Vegetables ;140;84,935
+Finland;2015;Cereals and Grains ;934;83,78
+Finland;2015;Dairy and Eggs ;460;80,14
+Finland;2015;Oils and Fats ;421;83,23
+Finland;2015;Meat ;579;80
+Finland;2016;Dairy and Eggs ;480;80,21
+Finland;2016;Fruit and Vegetables ;151;89,725
+Finland;2016;Cereals and Grains ;918;84,88
+Finland;2016;Meat ;605;81,65
+Finland;2016;Oils and Fats ;409;85,45
+Finland;2017;Cereals and Grains ;931;93,37
+Finland;2017;Meat ;590;88,93
+Finland;2017;Dairy and Eggs ;499;96,55
+Finland;2017;Fruit and Vegetables ;145;97,735
+Finland;2017;Oils and Fats ;406;101,21
+Finland;2018;Oils and Fats ;408;89,28
+Finland;2018;Meat ;585;86,31
+Finland;2018;Dairy and Eggs ;493;92,34
+Finland;2018;Fruit and Vegetables ;150;88,675
+Finland;2018;Cereals and Grains ;900;91,17
+Finland;2019;Oils and Fats ;411;89,69
+Finland;2019;Meat ;607;87,84
+Finland;2019;Dairy and Eggs ;500;90,73
+Finland;2019;Fruit and Vegetables ;144;95,46
+Finland;2019;Cereals and Grains ;946;92,2
+Finland;2020;Oils and Fats ;433;102,06
+Finland;2020;Cereals and Grains ;914;96,77
+Finland;2020;Meat ;602;93,08
+Finland;2020;Dairy and Eggs ;529;95,37
+Finland;2020;Fruit and Vegetables ;157;91,46
+Finland;2021;Cereals and Grains ;943;99,41
+Finland;2021;Fruit and Vegetables ;158;101,19
+Finland;2021;Oils and Fats ;422;105,86
+Finland;2021;Meat ;606;101,85
+Finland;2021;Dairy and Eggs ;531;99,7
+Finland;2022;Fruit and Vegetables ;158;106,215
+Finland;2022;Cereals and Grains ;948;102,44
+Finland;2022;Dairy and Eggs ;545;105,26
+Finland;2022;Oils and Fats ;437;108,77
+Finland;2022;Meat ;599;104,52
+France;2014;Cereals and Grains ;902;88,93
+France;2014;Fruit and Vegetables ;177;81,89
+France;2014;Oils and Fats ;761;85,09
+France;2014;Meat ;542;82,39
+France;2014;Dairy and Eggs ;420;91,24
+France;2015;Fruit and Vegetables ;170;83,735
+France;2015;Cereals and Grains ;920;89,56
+France;2015;Dairy and Eggs ;426;91,35
+France;2015;Oils and Fats ;798;88,57
+France;2015;Meat ;500;84,63
+France;2016;Dairy and Eggs ;430;96,06
+France;2016;Fruit and Vegetables ;180;87,31
+France;2016;Cereals and Grains ;893;92,34
+France;2016;Meat ;483;87,31
+France;2016;Oils and Fats ;792;91,94
+France;2017;Cereals and Grains ;954;96,82
+France;2017;Meat ;552;90,26
+France;2017;Dairy and Eggs ;386;100,8
+France;2017;Fruit and Vegetables ;182;87,435
+France;2017;Oils and Fats ;812;96
+France;2018;Oils and Fats ;795;93,25
+France;2018;Meat ;552;90,5
+France;2018;Dairy and Eggs ;394;97,93
+France;2018;Fruit and Vegetables ;180;86,255
+France;2018;Cereals and Grains ;907;96,54
+France;2019;Oils and Fats ;776;92,42
+France;2019;Meat ;552;91,13
+France;2019;Dairy and Eggs ;390;98,06
+France;2019;Fruit and Vegetables ;175;91,65
+France;2019;Cereals and Grains ;972;96,56
+France;2020;Oils and Fats ;757;99,6
+France;2020;Cereals and Grains ;951;99,81
+France;2020;Meat ;546;94,75
+France;2020;Dairy and Eggs ;396;101,51
+France;2020;Fruit and Vegetables ;176;91,505
+France;2021;Cereals and Grains ;970;100,79
+France;2021;Fruit and Vegetables ;163;98,065
+France;2021;Oils and Fats ;742;99,04
+France;2021;Meat ;538;97,7
+France;2021;Dairy and Eggs ;385;101,15
+France;2022;Fruit and Vegetables ;175;97,475
+France;2022;Cereals and Grains ;960;100,7
+France;2022;Dairy and Eggs ;392;100,52
+France;2022;Oils and Fats ;758;100,04
+France;2022;Meat ;527;99,4
+Germany;2014;Cereals and Grains ;859;78,6
+Germany;2014;Fruit and Vegetables ;172;78
+Germany;2014;Oils and Fats ;767;73,1
+Germany;2014;Meat ;382;81,4
+Germany;2014;Dairy and Eggs ;358;81,6
+Germany;2015;Fruit and Vegetables ;172;83,5
+Germany;2015;Cereals and Grains ;860;80,1
+Germany;2015;Dairy and Eggs ;362;81,7
+Germany;2015;Oils and Fats ;786;73,5
+Germany;2015;Meat ;386;83
+Germany;2016;Dairy and Eggs ;376;95,9
+Germany;2016;Fruit and Vegetables ;169;85,65
+Germany;2016;Cereals and Grains ;874;84,9
+Germany;2016;Meat ;404;84,9
+Germany;2016;Oils and Fats ;810;92,2
+Germany;2017;Cereals and Grains ;866;88,9
+Germany;2017;Meat ;397;89,1
+Germany;2017;Dairy and Eggs ;365;91,5
+Germany;2017;Fruit and Vegetables ;168;86,8
+Germany;2017;Oils and Fats ;812;86,7
+Germany;2018;Oils and Fats ;787;90,1
+Germany;2018;Meat ;397;88,9
+Germany;2018;Dairy and Eggs ;388;88,8
+Germany;2018;Fruit and Vegetables ;170;80,75
+Germany;2018;Cereals and Grains ;873;88,3
+Germany;2019;Oils and Fats ;795;92,8
+Germany;2019;Meat ;404;89,6
+Germany;2019;Dairy and Eggs ;380;90,4
+Germany;2019;Fruit and Vegetables ;165;91,15
+Germany;2019;Cereals and Grains ;876;89,3
+Germany;2020;Oils and Fats ;796;105,1
+Germany;2020;Cereals and Grains ;874;93,1
+Germany;2020;Meat ;405;94,2
+Germany;2020;Dairy and Eggs ;384;94,6
+Germany;2020;Fruit and Vegetables ;177;85,8
+Germany;2021;Cereals and Grains ;861;96,2
+Germany;2021;Fruit and Vegetables ;178;94,55
+Germany;2021;Oils and Fats ;809;101,4
+Germany;2021;Meat ;397;99,5
+Germany;2021;Dairy and Eggs ;374;94,9
+Germany;2022;Fruit and Vegetables ;179;98,75
+Germany;2022;Cereals and Grains ;872;97,8
+Germany;2022;Dairy and Eggs ;378;103,6
+Germany;2022;Oils and Fats ;801;112,8
+Germany;2022;Meat ;390;101
+Greece;2014;Cereals and Grains ;984;79,73
+Greece;2014;Fruit and Vegetables ;350;85,735
+Greece;2014;Oils and Fats ;793;92,24
+Greece;2014;Meat ;352;86,69
+Greece;2014;Dairy and Eggs ;436;84,19
+Greece;2015;Fruit and Vegetables ;314;87,705
+Greece;2015;Cereals and Grains ;926;82,77
+Greece;2015;Dairy and Eggs ;452;87,1
+Greece;2015;Oils and Fats ;767;93,41
+Greece;2015;Meat ;361;90,34
+Greece;2016;Dairy and Eggs ;485;92,77
+Greece;2016;Fruit and Vegetables ;325;88,53
+Greece;2016;Cereals and Grains ;896;93,39
+Greece;2016;Meat ;341;93,05
+Greece;2016;Oils and Fats ;766;93,82
+Greece;2017;Cereals and Grains ;941;98,92
+Greece;2017;Meat ;344;96,54
+Greece;2017;Dairy and Eggs ;450;94,64
+Greece;2017;Fruit and Vegetables ;298;96,645
+Greece;2017;Oils and Fats ;812;92,2
+Greece;2018;Oils and Fats ;823;91,41
+Greece;2018;Meat ;348;97,09
+Greece;2018;Dairy and Eggs ;455;91,65
+Greece;2018;Fruit and Vegetables ;315;90,3
+Greece;2018;Cereals and Grains ;920;99,38
+Greece;2019;Oils and Fats ;808;92,1
+Greece;2019;Meat ;341;98,55
+Greece;2019;Dairy and Eggs ;473;93,17
+Greece;2019;Fruit and Vegetables ;285;93,04
+Greece;2019;Cereals and Grains ;907;99,73
+Greece;2020;Oils and Fats ;838;93,59
+Greece;2020;Cereals and Grains ;917;103,57
+Greece;2020;Meat ;341;100,33
+Greece;2020;Dairy and Eggs ;445;96,76
+Greece;2020;Fruit and Vegetables ;293;99,425
+Greece;2021;Cereals and Grains ;926;101,89
+Greece;2021;Fruit and Vegetables ;285;96,5
+Greece;2021;Oils and Fats ;820;92,26
+Greece;2021;Meat ;322;102,14
+Greece;2021;Dairy and Eggs ;428;97,72
+Greece;2022;Fruit and Vegetables ;285;95,245
+Greece;2022;Cereals and Grains ;947;99,98
+Greece;2022;Dairy and Eggs ;418;100
+Greece;2022;Oils and Fats ;800;91,68
+Greece;2022;Meat ;328;100,76
+Hungary;2014;Cereals and Grains ;923;59,73
+Hungary;2014;Fruit and Vegetables ;179;51,585
+Hungary;2014;Oils and Fats ;758;56,62
+Hungary;2014;Meat ;372;64,71
+Hungary;2014;Dairy and Eggs ;289;65,41
+Hungary;2015;Fruit and Vegetables ;214;61,945
+Hungary;2015;Cereals and Grains ;892;69,26
+Hungary;2015;Dairy and Eggs ;293;73,34
+Hungary;2015;Oils and Fats ;748;60,44
+Hungary;2015;Meat ;374;73,94
+Hungary;2016;Dairy and Eggs ;300;86,22
+Hungary;2016;Fruit and Vegetables ;192;74,775
+Hungary;2016;Cereals and Grains ;806;85,93
+Hungary;2016;Meat ;375;76,44
+Hungary;2016;Oils and Fats ;753;71,72
+Hungary;2017;Cereals and Grains ;806;89,8
+Hungary;2017;Meat ;361;83,66
+Hungary;2017;Dairy and Eggs ;295;87,98
+Hungary;2017;Fruit and Vegetables ;168;64,405
+Hungary;2017;Oils and Fats ;767;83,95
+Hungary;2018;Oils and Fats ;749;78,09
+Hungary;2018;Meat ;360;86,36
+Hungary;2018;Dairy and Eggs ;279;85,34
+Hungary;2018;Fruit and Vegetables ;184;64,625
+Hungary;2018;Cereals and Grains ;869;89,34
+Hungary;2019;Oils and Fats ;768;87,75
+Hungary;2019;Meat ;337;86,73
+Hungary;2019;Dairy and Eggs ;280;90,16
+Hungary;2019;Fruit and Vegetables ;138;82,09
+Hungary;2019;Cereals and Grains ;865;95,06
+Hungary;2020;Oils and Fats ;753;96,24
+Hungary;2020;Cereals and Grains ;817;100,25
+Hungary;2020;Meat ;357;92,15
+Hungary;2020;Dairy and Eggs ;274;95,7
+Hungary;2020;Fruit and Vegetables ;137;75,55
+Hungary;2021;Cereals and Grains ;813;105,18
+Hungary;2021;Fruit and Vegetables ;153;86,28
+Hungary;2021;Oils and Fats ;733;106,28
+Hungary;2021;Meat ;346;101,47
+Hungary;2021;Dairy and Eggs ;273;99,13
+Hungary;2022;Fruit and Vegetables ;131;86,06
+Hungary;2022;Cereals and Grains ;846;101,2
+Hungary;2022;Dairy and Eggs ;265;102,1
+Hungary;2022;Oils and Fats ;804;101,05
+Hungary;2022;Meat ;314;101,67
+Iceland;2014;Cereals and Grains ;650;49,57
+Iceland;2014;Fruit and Vegetables ;168;47,675
+Iceland;2014;Oils and Fats ;420;41,1
+Iceland;2014;Meat ;690;67,79
+Iceland;2014;Dairy and Eggs ;566;53,54
+Iceland;2015;Fruit and Vegetables ;189;53,98
+Iceland;2015;Cereals and Grains ;655;54,87
+Iceland;2015;Dairy and Eggs ;588;57,46
+Iceland;2015;Oils and Fats ;433;47,01
+Iceland;2015;Meat ;711;71,46
+Iceland;2016;Dairy and Eggs ;590;54,83
+Iceland;2016;Fruit and Vegetables ;205;53,55
+Iceland;2016;Cereals and Grains ;684;53,95
+Iceland;2016;Meat ;745;73,36
+Iceland;2016;Oils and Fats ;419;47,98
+Iceland;2017;Cereals and Grains ;699;75,3
+Iceland;2017;Meat ;734;82,04
+Iceland;2017;Dairy and Eggs ;587;71,51
+Iceland;2017;Fruit and Vegetables ;196;83,47
+Iceland;2017;Oils and Fats ;416;62,7
+Iceland;2018;Oils and Fats ;428;77,17
+Iceland;2018;Meat ;695;78,93
+Iceland;2018;Dairy and Eggs ;604;77,11
+Iceland;2018;Fruit and Vegetables ;184;85,6
+Iceland;2018;Cereals and Grains ;669;81,91
+Iceland;2019;Oils and Fats ;445;76,38
+Iceland;2019;Meat ;668;81,19
+Iceland;2019;Dairy and Eggs ;591;77,36
+Iceland;2019;Fruit and Vegetables ;179;86,345
+Iceland;2019;Cereals and Grains ;667;83,39
+Iceland;2020;Oils and Fats ;432;82,9
+Iceland;2020;Cereals and Grains ;657;87,5
+Iceland;2020;Meat ;697;91,33
+Iceland;2020;Dairy and Eggs ;590;84,25
+Iceland;2020;Fruit and Vegetables ;184;87,115
+Iceland;2021;Cereals and Grains ;694;91,85
+Iceland;2021;Fruit and Vegetables ;198;93,705
+Iceland;2021;Oils and Fats ;441;90,35
+Iceland;2021;Meat ;693;93,87
+Iceland;2021;Dairy and Eggs ;601;90,86
+Iceland;2022;Fruit and Vegetables ;196;96,63
+Iceland;2022;Cereals and Grains ;698;96,53
+Iceland;2022;Dairy and Eggs ;573;95,72
+Iceland;2022;Oils and Fats ;457;94,58
+Iceland;2022;Meat ;710;99,34
+Ireland;2014;Cereals and Grains ;896;98,1
+Ireland;2014;Fruit and Vegetables ;152;106,35
+Ireland;2014;Oils and Fats ;591;78,7
+Ireland;2014;Meat ;470;104,4
+Ireland;2014;Dairy and Eggs ;461;84,6
+Ireland;2015;Fruit and Vegetables ;166;112,8
+Ireland;2015;Cereals and Grains ;981;98
+Ireland;2015;Dairy and Eggs ;406;86
+Ireland;2015;Oils and Fats ;544;77,5
+Ireland;2015;Meat ;486;107,5
+Ireland;2016;Dairy and Eggs ;443;99,2
+Ireland;2016;Fruit and Vegetables ;186;115,05
+Ireland;2016;Cereals and Grains ;938;110,8
+Ireland;2016;Meat ;440;108,7
+Ireland;2016;Oils and Fats ;578;87,5
+Ireland;2017;Cereals and Grains ;973;113
+Ireland;2017;Meat ;434;114
+Ireland;2017;Dairy and Eggs ;445;106,6
+Ireland;2017;Fruit and Vegetables ;200;114,4
+Ireland;2017;Oils and Fats ;603;96,3
+Ireland;2018;Oils and Fats ;585;86,1
+Ireland;2018;Meat ;434;106,3
+Ireland;2018;Dairy and Eggs ;415;99,8
+Ireland;2018;Fruit and Vegetables ;189;101,45
+Ireland;2018;Cereals and Grains ;1041;105,2
+Ireland;2019;Oils and Fats ;605;89,9
+Ireland;2019;Meat ;410;101,5
+Ireland;2019;Dairy and Eggs ;402;99,5
+Ireland;2019;Fruit and Vegetables ;190;104,45
+Ireland;2019;Cereals and Grains ;1068;105,9
+Ireland;2020;Oils and Fats ;605;98
+Ireland;2020;Cereals and Grains ;1053;105,4
+Ireland;2020;Meat ;392;102,9
+Ireland;2020;Dairy and Eggs ;404;102,4
+Ireland;2020;Fruit and Vegetables ;193;105,05
+Ireland;2021;Cereals and Grains ;1079;105,5
+Ireland;2021;Fruit and Vegetables ;201;108,65
+Ireland;2021;Oils and Fats ;602;99,5
+Ireland;2021;Meat ;426;103,8
+Ireland;2021;Dairy and Eggs ;354;102
+Ireland;2022;Fruit and Vegetables ;211;105,15
+Ireland;2022;Cereals and Grains ;1073;104,6
+Ireland;2022;Dairy and Eggs ;393;102,7
+Ireland;2022;Oils and Fats ;551;100,9
+Ireland;2022;Meat ;439;104,4
+Italy;2014;Cereals and Grains ;1125;79,5
+Italy;2014;Fruit and Vegetables ;295;82,9
+Italy;2014;Oils and Fats ;802;83,3
+Italy;2014;Meat ;429;83,5
+Italy;2014;Dairy and Eggs ;333;82,3
+Italy;2015;Fruit and Vegetables ;296;84,4
+Italy;2015;Cereals and Grains ;1133;80,6
+Italy;2015;Dairy and Eggs ;328;82,9
+Italy;2015;Oils and Fats ;878;90,5
+Italy;2015;Meat ;434;87,3
+Italy;2016;Dairy and Eggs ;316;87,8
+Italy;2016;Fruit and Vegetables ;296;87,45
+Italy;2016;Cereals and Grains ;1134;86,8
+Italy;2016;Meat ;440;90,3
+Italy;2016;Oils and Fats ;877;91,4
+Italy;2017;Cereals and Grains ;1129;93,4
+Italy;2017;Meat ;430;92,8
+Italy;2017;Dairy and Eggs ;335;91,7
+Italy;2017;Fruit and Vegetables ;290;90,3
+Italy;2017;Oils and Fats ;873;94,4
+Italy;2018;Oils and Fats ;844;90,9
+Italy;2018;Meat ;436;93,3
+Italy;2018;Dairy and Eggs ;319;91
+Italy;2018;Fruit and Vegetables ;325;90,9
+Italy;2018;Cereals and Grains ;1140;93,4
+Italy;2019;Oils and Fats ;868;89,8
+Italy;2019;Meat ;444;94,3
+Italy;2019;Dairy and Eggs ;334;93
+Italy;2019;Fruit and Vegetables ;281;90,95
+Italy;2019;Cereals and Grains ;1119;93,9
+Italy;2020;Oils and Fats ;888;92
+Italy;2020;Cereals and Grains ;1120;96,8
+Italy;2020;Meat ;429;96,8
+Italy;2020;Dairy and Eggs ;333;97,2
+Italy;2020;Fruit and Vegetables ;267;91,85
+Italy;2021;Cereals and Grains ;1133;98,8
+Italy;2021;Fruit and Vegetables ;248;96,85
+Italy;2021;Oils and Fats ;890;93,1
+Italy;2021;Meat ;427;98,9
+Italy;2021;Dairy and Eggs ;331;98,6
+Italy;2022;Fruit and Vegetables ;261;98,15
+Italy;2022;Cereals and Grains ;1147;99,8
+Italy;2022;Dairy and Eggs ;324;100,3
+Italy;2022;Oils and Fats ;875;96,6
+Italy;2022;Meat ;415;99,9
+Latvia;2014;Cereals and Grains ;847;57,35
+Latvia;2014;Fruit and Vegetables ;141;63,43
+Latvia;2014;Oils and Fats ;610;58,73
+Latvia;2014;Meat ;300;72,69
+Latvia;2014;Dairy and Eggs ;344;63,52
+Latvia;2015;Fruit and Vegetables ;141;76,81
+Latvia;2015;Cereals and Grains ;871;64,38
+Latvia;2015;Dairy and Eggs ;356;67,85
+Latvia;2015;Oils and Fats ;694;64,5
+Latvia;2015;Meat ;298;76,92
+Latvia;2016;Dairy and Eggs ;357;88,47
+Latvia;2016;Fruit and Vegetables ;146;90,06
+Latvia;2016;Cereals and Grains ;888;84,58
+Latvia;2016;Meat ;332;88,51
+Latvia;2016;Oils and Fats ;632;76,45
+Latvia;2017;Cereals and Grains ;846;93,89
+Latvia;2017;Meat ;354;101,39
+Latvia;2017;Dairy and Eggs ;386;92,18
+Latvia;2017;Fruit and Vegetables ;136;93,565
+Latvia;2017;Oils and Fats ;574;98
+Latvia;2018;Oils and Fats ;579;86,82
+Latvia;2018;Meat ;352;95,97
+Latvia;2018;Dairy and Eggs ;383;83,26
+Latvia;2018;Fruit and Vegetables ;128;77,295
+Latvia;2018;Cereals and Grains ;849;91,3
+Latvia;2019;Oils and Fats ;582;94,37
+Latvia;2019;Meat ;350;94,67
+Latvia;2019;Dairy and Eggs ;367;92,32
+Latvia;2019;Fruit and Vegetables ;129;98,975
+Latvia;2019;Cereals and Grains ;872;98,27
+Latvia;2020;Oils and Fats ;575;104,24
+Latvia;2020;Cereals and Grains ;924;99,24
+Latvia;2020;Meat ;354;99,78
+Latvia;2020;Dairy and Eggs ;353;102,3
+Latvia;2020;Fruit and Vegetables ;134;86,515
+Latvia;2021;Cereals and Grains ;912;101,07
+Latvia;2021;Fruit and Vegetables ;132;98,47
+Latvia;2021;Oils and Fats ;584;105,12
+Latvia;2021;Meat ;332;102,43
+Latvia;2021;Dairy and Eggs ;328;103,83
+Latvia;2022;Fruit and Vegetables ;140;96,425
+Latvia;2022;Cereals and Grains ;941;98,97
+Latvia;2022;Dairy and Eggs ;314;106,27
+Latvia;2022;Oils and Fats ;595;105,23
+Latvia;2022;Meat ;321;101,86
+Lithuania;2014;Cereals and Grains ;1203;53,77
+Lithuania;2014;Fruit and Vegetables ;167;68,295
+Lithuania;2014;Oils and Fats ;369;61,73
+Lithuania;2014;Meat ;446;67,71
+Lithuania;2014;Dairy and Eggs ;405;66,9
+Lithuania;2015;Fruit and Vegetables ;189;77,23
+Lithuania;2015;Cereals and Grains ;1146;63,26
+Lithuania;2015;Dairy and Eggs ;396;70,27
+Lithuania;2015;Oils and Fats ;376;65,02
+Lithuania;2015;Meat ;462;70,86
+Lithuania;2016;Dairy and Eggs ;367;89,9
+Lithuania;2016;Fruit and Vegetables ;186;89,09
+Lithuania;2016;Cereals and Grains ;1235;76,32
+Lithuania;2016;Meat ;503;79,26
+Lithuania;2016;Oils and Fats ;379;83,95
+Lithuania;2017;Cereals and Grains ;1155;87,85
+Lithuania;2017;Meat ;542;96,71
+Lithuania;2017;Dairy and Eggs ;369;86,7
+Lithuania;2017;Fruit and Vegetables ;143;91,25
+Lithuania;2017;Oils and Fats ;365;92,88
+Lithuania;2018;Oils and Fats ;371;84,5
+Lithuania;2018;Meat ;502;95,67
+Lithuania;2018;Dairy and Eggs ;360;80,72
+Lithuania;2018;Fruit and Vegetables ;142;72,67
+Lithuania;2018;Cereals and Grains ;1171;86,16
+Lithuania;2019;Oils and Fats ;393;96,84
+Lithuania;2019;Meat ;483;94,02
+Lithuania;2019;Dairy and Eggs ;354;88,76
+Lithuania;2019;Fruit and Vegetables ;113;89,05
+Lithuania;2019;Cereals and Grains ;1139;91,62
+Lithuania;2020;Oils and Fats ;431;106,66
+Lithuania;2020;Cereals and Grains ;1148;95,98
+Lithuania;2020;Meat ;478;97,95
+Lithuania;2020;Dairy and Eggs ;319;97,06
+Lithuania;2020;Fruit and Vegetables ;123;81,605
+Lithuania;2021;Cereals and Grains ;1136;97,66
+Lithuania;2021;Fruit and Vegetables ;139;91,21
+Lithuania;2021;Oils and Fats ;392;103,48
+Lithuania;2021;Meat ;479;102,33
+Lithuania;2021;Dairy and Eggs ;314;100,46
+Lithuania;2022;Fruit and Vegetables ;128;92,18
+Lithuania;2022;Cereals and Grains ;1166;100,42
+Lithuania;2022;Dairy and Eggs ;340;104,37
+Lithuania;2022;Oils and Fats ;363;103,58
+Lithuania;2022;Meat ;485;101,93
+Luxembourg;2014;Cereals and Grains ;772;75,95
+Luxembourg;2014;Fruit and Vegetables ;215;84,34
+Luxembourg;2014;Oils and Fats ;413;72,76
+Luxembourg;2014;Meat ;657;80,15
+Luxembourg;2014;Dairy and Eggs ;533;75,85
+Luxembourg;2015;Fruit and Vegetables ;222;88,845
+Luxembourg;2015;Cereals and Grains ;825;79,01
+Luxembourg;2015;Dairy and Eggs ;505;78,58
+Luxembourg;2015;Oils and Fats ;388;75,91
+Luxembourg;2015;Meat ;645;82,23
+Luxembourg;2016;Dairy and Eggs ;448;87,91
+Luxembourg;2016;Fruit and Vegetables ;216;90,58
+Luxembourg;2016;Cereals and Grains ;864;85,27
+Luxembourg;2016;Meat ;632;86,3
+Luxembourg;2016;Oils and Fats ;410;81,02
+Luxembourg;2017;Cereals and Grains ;895;88,64
+Luxembourg;2017;Meat ;648;89,13
+Luxembourg;2017;Dairy and Eggs ;413;89,44
+Luxembourg;2017;Fruit and Vegetables ;230;94,025
+Luxembourg;2017;Oils and Fats ;433;87,95
+Luxembourg;2018;Oils and Fats ;435;86,58
+Luxembourg;2018;Meat ;609;88,79
+Luxembourg;2018;Dairy and Eggs ;420;90,99
+Luxembourg;2018;Fruit and Vegetables ;195;90,92
+Luxembourg;2018;Cereals and Grains ;930;89,03
+Luxembourg;2019;Oils and Fats ;418;86,39
+Luxembourg;2019;Meat ;618;90,49
+Luxembourg;2019;Dairy and Eggs ;394;91,38
+Luxembourg;2019;Fruit and Vegetables ;229;95,41
+Luxembourg;2019;Cereals and Grains ;940;90,76
+Luxembourg;2020;Oils and Fats ;408;92,98
+Luxembourg;2020;Cereals and Grains ;937;94,24
+Luxembourg;2020;Meat ;607;92,64
+Luxembourg;2020;Dairy and Eggs ;418;94,33
+Luxembourg;2020;Fruit and Vegetables ;245;90,595
+Luxembourg;2021;Cereals and Grains ;938;96,66
+Luxembourg;2021;Fruit and Vegetables ;239;95,92
+Luxembourg;2021;Oils and Fats ;392;92,92
+Luxembourg;2021;Meat ;634;96,71
+Luxembourg;2021;Dairy and Eggs ;434;95,44
+Luxembourg;2022;Fruit and Vegetables ;236;100,42
+Luxembourg;2022;Cereals and Grains ;924;100,31
+Luxembourg;2022;Dairy and Eggs ;424;98,2
+Luxembourg;2022;Oils and Fats ;401;100,72
+Luxembourg;2022;Meat ;634;99,54
+Malta;2014;Cereals and Grains ;1118;68,34
+Malta;2014;Fruit and Vegetables ;264;64,56
+Malta;2014;Oils and Fats ;417;62,93
+Malta;2014;Meat ;377;71,63
+Malta;2014;Dairy and Eggs ;331;71,83
+Malta;2015;Fruit and Vegetables ;266;67,755
+Malta;2015;Cereals and Grains ;1105;70,03
+Malta;2015;Dairy and Eggs ;336;72,4
+Malta;2015;Oils and Fats ;450;67,66
+Malta;2015;Meat ;381;73,7
+Malta;2016;Dairy and Eggs ;345;79,91
+Malta;2016;Fruit and Vegetables ;240;74,665
+Malta;2016;Cereals and Grains ;1138;76,06
+Malta;2016;Meat ;414;76
+Malta;2016;Oils and Fats ;410;72,45
+Malta;2017;Cereals and Grains ;1044;84,18
+Malta;2017;Meat ;394;80,64
+Malta;2017;Dairy and Eggs ;362;87,02
+Malta;2017;Fruit and Vegetables ;253;86,915
+Malta;2017;Oils and Fats ;429;82,8
+Malta;2018;Oils and Fats ;452;79,57
+Malta;2018;Meat ;384;83,95
+Malta;2018;Dairy and Eggs ;327;86,13
+Malta;2018;Fruit and Vegetables ;248;77,31
+Malta;2018;Cereals and Grains ;1067;86,89
+Malta;2019;Oils and Fats ;431;83,9
+Malta;2019;Meat ;384;84,83
+Malta;2019;Dairy and Eggs ;324;92,39
+Malta;2019;Fruit and Vegetables ;219;89,305
+Malta;2019;Cereals and Grains ;1152;90,43
+Malta;2020;Oils and Fats ;456;91,37
+Malta;2020;Cereals and Grains ;1103;92,38
+Malta;2020;Meat ;389;90,81
+Malta;2020;Dairy and Eggs ;331;95,01
+Malta;2020;Fruit and Vegetables ;236;89,275
+Malta;2021;Cereals and Grains ;1077;96,28
+Malta;2021;Fruit and Vegetables ;231;97,265
+Malta;2021;Oils and Fats ;439;91,5
+Malta;2021;Meat ;384;97,61
+Malta;2021;Dairy and Eggs ;355;98,36
+Malta;2022;Fruit and Vegetables ;219;99,74
+Malta;2022;Cereals and Grains ;1090;97,1
+Malta;2022;Dairy and Eggs ;356;99,6
+Malta;2022;Oils and Fats ;438;95,27
+Malta;2022;Meat ;401;99,8
+Netherlands;2014;Cereals and Grains ;580;84,82
+Netherlands;2014;Fruit and Vegetables ;213;79,19
+Netherlands;2014;Oils and Fats ;675;79,15
+Netherlands;2014;Meat ;425;88,71
+Netherlands;2014;Dairy and Eggs ;524;80,44
+Netherlands;2015;Fruit and Vegetables ;250;85,215
+Netherlands;2015;Cereals and Grains ;599;84,99
+Netherlands;2015;Dairy and Eggs ;543;79,44
+Netherlands;2015;Oils and Fats ;588;82,09
+Netherlands;2015;Meat ;440;89,54
+Netherlands;2016;Dairy and Eggs ;529;89,98
+Netherlands;2016;Fruit and Vegetables ;256;86,595
+Netherlands;2016;Cereals and Grains ;613;90,01
+Netherlands;2016;Meat ;414;89,6
+Netherlands;2016;Oils and Fats ;587;89,59
+Netherlands;2017;Cereals and Grains ;616;93,69
+Netherlands;2017;Meat ;451;94,64
+Netherlands;2017;Dairy and Eggs ;531;94,72
+Netherlands;2017;Fruit and Vegetables ;233;90,59
+Netherlands;2017;Oils and Fats ;583;96,69
+Netherlands;2018;Oils and Fats ;524;94,43
+Netherlands;2018;Meat ;458;94,19
+Netherlands;2018;Dairy and Eggs ;541;91,94
+Netherlands;2018;Fruit and Vegetables ;219;87,63
+Netherlands;2018;Cereals and Grains ;667;93,94
+Netherlands;2019;Oils and Fats ;556;90,36
+Netherlands;2019;Meat ;429;93,15
+Netherlands;2019;Dairy and Eggs ;498;90,65
+Netherlands;2019;Fruit and Vegetables ;210;96,035
+Netherlands;2019;Cereals and Grains ;717;93,71
+Netherlands;2020;Oils and Fats ;538;94,48
+Netherlands;2020;Cereals and Grains ;716;96,41
+Netherlands;2020;Meat ;400;97,59
+Netherlands;2020;Dairy and Eggs ;517;93,02
+Netherlands;2020;Fruit and Vegetables ;242;92,68
+Netherlands;2021;Cereals and Grains ;721;99,12
+Netherlands;2021;Fruit and Vegetables ;230;100,14
+Netherlands;2021;Oils and Fats ;520;96,9
+Netherlands;2021;Meat ;470;100,34
+Netherlands;2021;Dairy and Eggs ;502;95,46
+Netherlands;2022;Fruit and Vegetables ;254;97,885
+Netherlands;2022;Cereals and Grains ;705;99,49
+Netherlands;2022;Dairy and Eggs ;514;97,24
+Netherlands;2022;Oils and Fats ;526;98,96
+Netherlands;2022;Meat ;461;101,94
+Norway;2014;Cereals and Grains ;982;76,7
+Norway;2014;Fruit and Vegetables ;181;82,3
+Norway;2014;Oils and Fats ;768;70,5
+Norway;2014;Meat ;504;98,1
+Norway;2014;Dairy and Eggs ;367;74,4
+Norway;2015;Fruit and Vegetables ;183;84,45
+Norway;2015;Cereals and Grains ;979;77,9
+Norway;2015;Dairy and Eggs ;367;77,7
+Norway;2015;Oils and Fats ;705;73,3
+Norway;2015;Meat ;497;97,4
+Norway;2016;Dairy and Eggs ;374;82,4
+Norway;2016;Fruit and Vegetables ;192;84,55
+Norway;2016;Cereals and Grains ;984;81,1
+Norway;2016;Meat ;488;101,7
+Norway;2016;Oils and Fats ;698;76,6
+Norway;2017;Cereals and Grains ;973;88,4
+Norway;2017;Meat ;506;105,2
+Norway;2017;Dairy and Eggs ;371;88
+Norway;2017;Fruit and Vegetables ;200;87,7
+Norway;2017;Oils and Fats ;684;86,4
+Norway;2018;Oils and Fats ;681;90,5
+Norway;2018;Meat ;498;103,4
+Norway;2018;Dairy and Eggs ;379;94,2
+Norway;2018;Fruit and Vegetables ;183;88,9
+Norway;2018;Cereals and Grains ;996;92,7
+Norway;2019;Oils and Fats ;690;92
+Norway;2019;Meat ;497;99,5
+Norway;2019;Dairy and Eggs ;378;96,2
+Norway;2019;Fruit and Vegetables ;177;87,2
+Norway;2019;Cereals and Grains ;976;93,4
+Norway;2020;Oils and Fats ;702;95,2
+Norway;2020;Cereals and Grains ;972;95,1
+Norway;2020;Meat ;497;96,7
+Norway;2020;Dairy and Eggs ;375;97,1
+Norway;2020;Fruit and Vegetables ;189;83,55
+Norway;2021;Cereals and Grains ;980;95,9
+Norway;2021;Fruit and Vegetables ;184;84,9
+Norway;2021;Oils and Fats ;688;96,3
+Norway;2021;Meat ;500;95,6
+Norway;2021;Dairy and Eggs ;386;96,4
+Norway;2022;Fruit and Vegetables ;189;88,6
+Norway;2022;Cereals and Grains ;979;98,3
+Norway;2022;Dairy and Eggs ;381;98,7
+Norway;2022;Oils and Fats ;679;100,7
+Norway;2022;Meat ;500;96,1
+Poland;2014;Cereals and Grains ;1184;67,8
+Poland;2014;Fruit and Vegetables ;143;80,4
+Poland;2014;Oils and Fats ;555;76,4
+Poland;2014;Meat ;389;77,1
+Poland;2014;Dairy and Eggs ;249;77,3
+Poland;2015;Fruit and Vegetables ;142;83,9
+Poland;2015;Cereals and Grains ;1160;71,1
+Poland;2015;Dairy and Eggs ;237;77,9
+Poland;2015;Oils and Fats ;543;75,8
+Poland;2015;Meat ;406;76,2
+Poland;2016;Dairy and Eggs ;246;89,1
+Poland;2016;Fruit and Vegetables ;144;90,55
+Poland;2016;Cereals and Grains ;1171;79,7
+Poland;2016;Meat ;408;81,1
+Poland;2016;Oils and Fats ;532;87,4
+Poland;2017;Cereals and Grains ;1176;84,9
+Poland;2017;Meat ;398;85,4
+Poland;2017;Dairy and Eggs ;241;88
+Poland;2017;Fruit and Vegetables ;146;88,1
+Poland;2017;Oils and Fats ;545;88,9
+Poland;2018;Oils and Fats ;571;94,3
+Poland;2018;Meat ;414;90
+Poland;2018;Dairy and Eggs ;244;89,3
+Poland;2018;Fruit and Vegetables ;154;90,05
+Poland;2018;Cereals and Grains ;1187;86,5
+Poland;2019;Oils and Fats ;557;96,3
+Poland;2019;Meat ;414;89
+Poland;2019;Dairy and Eggs ;271;91,2
+Poland;2019;Fruit and Vegetables ;144;103,15
+Poland;2019;Cereals and Grains ;1183;92,4
+Poland;2020;Oils and Fats ;557;105,6
+Poland;2020;Cereals and Grains ;1181;98,2
+Poland;2020;Meat ;424;98,8
+Poland;2020;Dairy and Eggs ;273;95,8
+Poland;2020;Fruit and Vegetables ;156;90,45
+Poland;2021;Cereals and Grains ;1184;100
+Poland;2021;Fruit and Vegetables ;152;95,85
+Poland;2021;Oils and Fats ;571;105,5
+Poland;2021;Meat ;411;103,7
+Poland;2021;Dairy and Eggs ;270;100,5
+Poland;2022;Fruit and Vegetables ;146;101,7
+Poland;2022;Cereals and Grains ;1194;100,4
+Poland;2022;Dairy and Eggs ;278;102,6
+Poland;2022;Oils and Fats ;583;108,8
+Poland;2022;Meat ;410;104
+Portugal;2014;Cereals and Grains ;987;83,21
+Portugal;2014;Fruit and Vegetables ;263;86,515
+Portugal;2014;Oils and Fats ;700;82,78
+Portugal;2014;Meat ;463;95,25
+Portugal;2014;Dairy and Eggs ;325;96,65
+Portugal;2015;Fruit and Vegetables ;257;93,825
+Portugal;2015;Cereals and Grains ;988;84,66
+Portugal;2015;Dairy and Eggs ;311;97,06
+Portugal;2015;Oils and Fats ;703;78,92
+Portugal;2015;Meat ;479;98,51
+Portugal;2016;Dairy and Eggs ;321;107,16
+Portugal;2016;Fruit and Vegetables ;264;89,135
+Portugal;2016;Cereals and Grains ;993;90,27
+Portugal;2016;Meat ;507;97,8
+Portugal;2016;Oils and Fats ;694;80,03
+Portugal;2017;Cereals and Grains ;981;98,04
+Portugal;2017;Meat ;497;98,55
+Portugal;2017;Dairy and Eggs ;307;108,16
+Portugal;2017;Fruit and Vegetables ;258;91,175
+Portugal;2017;Oils and Fats ;753;85,06
+Portugal;2018;Oils and Fats ;752;78,82
+Portugal;2018;Meat ;495;96,11
+Portugal;2018;Dairy and Eggs ;295;100,34
+Portugal;2018;Fruit and Vegetables ;276;84,4
+Portugal;2018;Cereals and Grains ;992;95,7
+Portugal;2019;Oils and Fats ;737;78,5
+Portugal;2019;Meat ;495;97,6
+Portugal;2019;Dairy and Eggs ;281;100,57
+Portugal;2019;Fruit and Vegetables ;267;93,835
+Portugal;2019;Cereals and Grains ;1000;95,95
+Portugal;2020;Oils and Fats ;750;85,31
+Portugal;2020;Cereals and Grains ;1021;97,52
+Portugal;2020;Meat ;478;99,99
+Portugal;2020;Dairy and Eggs ;272;100,46
+Portugal;2020;Fruit and Vegetables ;250;89,315
+Portugal;2021;Cereals and Grains ;1012;99,79
+Portugal;2021;Fruit and Vegetables ;240;95,59
+Portugal;2021;Oils and Fats ;767;92,8
+Portugal;2021;Meat ;464;103,96
+Portugal;2021;Dairy and Eggs ;280;102,04
+Portugal;2022;Fruit and Vegetables ;254;101,475
+Portugal;2022;Cereals and Grains ;1028;100,35
+Portugal;2022;Dairy and Eggs ;286;102,47
+Portugal;2022;Oils and Fats ;747;95,83
+Portugal;2022;Meat ;461;103,34
+Romania;2014;Cereals and Grains ;1345;78,03
+Romania;2014;Fruit and Vegetables ;215;74,295
+Romania;2014;Oils and Fats ;409;70,64
+Romania;2014;Meat ;265;84,39
+Romania;2014;Dairy and Eggs ;497;75,76
+Romania;2015;Fruit and Vegetables ;213;68,81
+Romania;2015;Cereals and Grains ;1310;82,01
+Romania;2015;Dairy and Eggs ;524;79,27
+Romania;2015;Oils and Fats ;420;69,68
+Romania;2015;Meat ;259;84,53
+Romania;2016;Dairy and Eggs ;546;83,34
+Romania;2016;Fruit and Vegetables ;173;83,52
+Romania;2016;Cereals and Grains ;1304;92,01
+Romania;2016;Meat ;265;85,3
+Romania;2016;Oils and Fats ;409;92,64
+Romania;2017;Cereals and Grains ;1313;96,65
+Romania;2017;Meat ;266;91,47
+Romania;2017;Dairy and Eggs ;552;92,13
+Romania;2017;Fruit and Vegetables ;190;84,565
+Romania;2017;Oils and Fats ;406;107,03
+Romania;2018;Oils and Fats ;417;89,52
+Romania;2018;Meat ;281;94,07
+Romania;2018;Dairy and Eggs ;511;93,46
+Romania;2018;Fruit and Vegetables ;198;81,76
+Romania;2018;Cereals and Grains ;1319;97,45
+Romania;2019;Oils and Fats ;421;104,72
+Romania;2019;Meat ;251;96,87
+Romania;2019;Dairy and Eggs ;473;95,54
+Romania;2019;Fruit and Vegetables ;207;96,09
+Romania;2019;Cereals and Grains ;1318;102,55
+Romania;2020;Oils and Fats ;408;110,4
+Romania;2020;Cereals and Grains ;1329;107,61
+Romania;2020;Meat ;234;98,56
+Romania;2020;Dairy and Eggs ;489;100,49
+Romania;2020;Fruit and Vegetables ;221;85,1
+Romania;2021;Cereals and Grains ;1348;110,23
+Romania;2021;Fruit and Vegetables ;202;100,08
+Romania;2021;Oils and Fats ;418;121,92
+Romania;2021;Meat ;234;103,64
+Romania;2021;Dairy and Eggs ;477;106,26
+Romania;2022;Fruit and Vegetables ;219;98,05
+Romania;2022;Cereals and Grains ;1359;100,66
+Romania;2022;Dairy and Eggs ;481;105,53
+Romania;2022;Oils and Fats ;419;112,44
+Romania;2022;Meat ;219;105,48
+Slovakia;2014;Cereals and Grains ;919;65,74
+Slovakia;2014;Fruit and Vegetables ;112;63,17
+Slovakia;2014;Oils and Fats ;534;80,33
+Slovakia;2014;Meat ;273;92,54
+Slovakia;2014;Dairy and Eggs ;225;83,58
+Slovakia;2015;Fruit and Vegetables ;118;71,28
+Slovakia;2015;Cereals and Grains ;920;69
+Slovakia;2015;Dairy and Eggs ;224;84,09
+Slovakia;2015;Oils and Fats ;568;79,25
+Slovakia;2015;Meat ;261;91,43
+Slovakia;2016;Dairy and Eggs ;181;94,5
+Slovakia;2016;Fruit and Vegetables ;127;75,14
+Slovakia;2016;Cereals and Grains ;948;82,77
+Slovakia;2016;Meat ;255;93,08
+Slovakia;2016;Oils and Fats ;562;89,28
+Slovakia;2017;Cereals and Grains ;958;90,37
+Slovakia;2017;Meat ;261;95,4
+Slovakia;2017;Dairy and Eggs ;201;91,86
+Slovakia;2017;Fruit and Vegetables ;139;71,68
+Slovakia;2017;Oils and Fats ;505;100,18
+Slovakia;2018;Oils and Fats ;586;91,5
+Slovakia;2018;Meat ;265;89,42
+Slovakia;2018;Dairy and Eggs ;228;84,43
+Slovakia;2018;Fruit and Vegetables ;134;69,155
+Slovakia;2018;Cereals and Grains ;895;86,48
+Slovakia;2019;Oils and Fats ;607;97,99
+Slovakia;2019;Meat ;260;89,94
+Slovakia;2019;Dairy and Eggs ;243;88,94
+Slovakia;2019;Fruit and Vegetables ;128;86,295
+Slovakia;2019;Cereals and Grains ;932;88,91
+Slovakia;2020;Oils and Fats ;614;102,74
+Slovakia;2020;Cereals and Grains ;965;95,64
+Slovakia;2020;Meat ;269;97,41
+Slovakia;2020;Dairy and Eggs ;220;94,25
+Slovakia;2020;Fruit and Vegetables ;134;75,205
+Slovakia;2021;Cereals and Grains ;998;97,79
+Slovakia;2021;Fruit and Vegetables ;102;86,32
+Slovakia;2021;Oils and Fats ;665;104,42
+Slovakia;2021;Meat ;227;105,72
+Slovakia;2021;Dairy and Eggs ;203;98,52
+Slovakia;2022;Fruit and Vegetables ;110;89,135
+Slovakia;2022;Cereals and Grains ;1009;97,52
+Slovakia;2022;Dairy and Eggs ;242;101,86
+Slovakia;2022;Oils and Fats ;606;102,54
+Slovakia;2022;Meat ;239;104,22
+Slovenia;2014;Cereals and Grains ;1002;75,9
+Slovenia;2014;Fruit and Vegetables ;254;66,025
+Slovenia;2014;Oils and Fats ;546;61,72
+Slovenia;2014;Meat ;376;78,29
+Slovenia;2014;Dairy and Eggs ;332;64,61
+Slovenia;2015;Fruit and Vegetables ;229;72,315
+Slovenia;2015;Cereals and Grains ;1084;77,34
+Slovenia;2015;Dairy and Eggs ;325;67,99
+Slovenia;2015;Oils and Fats ;552;62,64
+Slovenia;2015;Meat ;364;79,8
+Slovenia;2016;Dairy and Eggs ;334;82,64
+Slovenia;2016;Fruit and Vegetables ;216;80,77
+Slovenia;2016;Cereals and Grains ;1092;91,28
+Slovenia;2016;Meat ;351;88,63
+Slovenia;2016;Oils and Fats ;559;75,05
+Slovenia;2017;Cereals and Grains ;1087;93,9
+Slovenia;2017;Meat ;367;89,36
+Slovenia;2017;Dairy and Eggs ;357;90,85
+Slovenia;2017;Fruit and Vegetables ;213;77,56
+Slovenia;2017;Oils and Fats ;560;90,68
+Slovenia;2018;Oils and Fats ;562;88,07
+Slovenia;2018;Meat ;362;89,43
+Slovenia;2018;Dairy and Eggs ;355;88,48
+Slovenia;2018;Fruit and Vegetables ;226;71,81
+Slovenia;2018;Cereals and Grains ;1091;93,31
+Slovenia;2019;Oils and Fats ;566;90,66
+Slovenia;2019;Meat ;358;88,15
+Slovenia;2019;Dairy and Eggs ;341;87,98
+Slovenia;2019;Fruit and Vegetables ;210;81,78
+Slovenia;2019;Cereals and Grains ;1108;92,11
+Slovenia;2020;Oils and Fats ;564;98,58
+Slovenia;2020;Cereals and Grains ;1126;97,82
+Slovenia;2020;Meat ;341;94,97
+Slovenia;2020;Dairy and Eggs ;323;95,91
+Slovenia;2020;Fruit and Vegetables ;212;75,32
+Slovenia;2021;Cereals and Grains ;1157;98,9
+Slovenia;2021;Fruit and Vegetables ;192;90,48
+Slovenia;2021;Oils and Fats ;570;98,85
+Slovenia;2021;Meat ;324;98,53
+Slovenia;2021;Dairy and Eggs ;332;96,99
+Slovenia;2022;Fruit and Vegetables ;204;92,355
+Slovenia;2022;Cereals and Grains ;1172;100,1
+Slovenia;2022;Dairy and Eggs ;319;101,43
+Slovenia;2022;Oils and Fats ;590;98,62
+Slovenia;2022;Meat ;295;100,93
+Spain;2014;Cereals and Grains ;713;80,81
+Spain;2014;Fruit and Vegetables ;230;81,08
+Spain;2014;Oils and Fats ;781;99,11
+Spain;2014;Meat ;528;86,63
+Spain;2014;Dairy and Eggs ;286;85,02
+Spain;2015;Fruit and Vegetables ;231;83,2
+Spain;2015;Cereals and Grains ;701;83,36
+Spain;2015;Dairy and Eggs ;292;86,78
+Spain;2015;Oils and Fats ;766;96,85
+Spain;2015;Meat ;530;90,57
+Spain;2016;Dairy and Eggs ;299;102,37
+Spain;2016;Fruit and Vegetables ;215;88,455
+Spain;2016;Cereals and Grains ;717;92,13
+Spain;2016;Meat ;539;94,94
+Spain;2016;Oils and Fats ;776;88,14
+Spain;2017;Cereals and Grains ;758;96,79
+Spain;2017;Meat ;497;97,39
+Spain;2017;Dairy and Eggs ;289;101,6
+Spain;2017;Fruit and Vegetables ;215;91,955
+Spain;2017;Oils and Fats ;777;86,88
+Spain;2018;Oils and Fats ;794;82,25
+Spain;2018;Meat ;470;95,34
+Spain;2018;Dairy and Eggs ;299;96,4
+Spain;2018;Fruit and Vegetables ;203;89,08
+Spain;2018;Cereals and Grains ;770;95,9
+Spain;2019;Oils and Fats ;793;76,79
+Spain;2019;Meat ;467;95,49
+Spain;2019;Dairy and Eggs ;300;95,45
+Spain;2019;Fruit and Vegetables ;193;92,485
+Spain;2019;Cereals and Grains ;770;95,95
+Spain;2020;Oils and Fats ;800;78,09
+Spain;2020;Cereals and Grains ;787;98,3
+Spain;2020;Meat ;462;97,94
+Spain;2020;Dairy and Eggs ;300;97,98
+Spain;2020;Fruit and Vegetables ;180;89,365
+Spain;2021;Cereals and Grains ;794;99,81
+Spain;2021;Fruit and Vegetables ;168;95,11
+Spain;2021;Oils and Fats ;798;90,56
+Spain;2021;Meat ;458;100,55
+Spain;2021;Dairy and Eggs ;295;100,32
+Spain;2022;Fruit and Vegetables ;174;97,94
+Spain;2022;Cereals and Grains ;795;100,23
+Spain;2022;Dairy and Eggs ;293;101,17
+Spain;2022;Oils and Fats ;797;93,47
+Spain;2022;Meat ;458;100,78
+Sweden;2014;Cereals and Grains ;781;80,54
+Sweden;2014;Fruit and Vegetables ;168;74,695
+Sweden;2014;Oils and Fats ;611;80,58
+Sweden;2014;Meat ;400;83,6
+Sweden;2014;Dairy and Eggs ;473;77,56
+Sweden;2015;Fruit and Vegetables ;174;77,6
+Sweden;2015;Cereals and Grains ;764;81,22
+Sweden;2015;Dairy and Eggs ;471;77,86
+Sweden;2015;Oils and Fats ;600;81,41
+Sweden;2015;Meat ;395;85,11
+Sweden;2016;Dairy and Eggs ;452;83,83
+Sweden;2016;Fruit and Vegetables ;175;83,43
+Sweden;2016;Cereals and Grains ;773;87,43
+Sweden;2016;Meat ;399;86,73
+Sweden;2016;Oils and Fats ;604;87,33
+Sweden;2017;Cereals and Grains ;783;93,73
+Sweden;2017;Meat ;410;93,24
+Sweden;2017;Dairy and Eggs ;461;87,62
+Sweden;2017;Fruit and Vegetables ;181;89,785
+Sweden;2017;Oils and Fats ;614;90,71
+Sweden;2018;Oils and Fats ;632;90,37
+Sweden;2018;Meat ;399;94,57
+Sweden;2018;Dairy and Eggs ;460;88,06
+Sweden;2018;Fruit and Vegetables ;173;86,475
+Sweden;2018;Cereals and Grains ;785;94,38
+Sweden;2019;Oils and Fats ;654;91,85
+Sweden;2019;Meat ;408;94,39
+Sweden;2019;Dairy and Eggs ;451;91,6
+Sweden;2019;Fruit and Vegetables ;175;91,02
+Sweden;2019;Cereals and Grains ;802;96,32
+Sweden;2020;Oils and Fats ;671;93,8
+Sweden;2020;Cereals and Grains ;757;98,34
+Sweden;2020;Meat ;416;94,87
+Sweden;2020;Dairy and Eggs ;446;93,75
+Sweden;2020;Fruit and Vegetables ;171;87,01
+Sweden;2021;Cereals and Grains ;752;99,17
+Sweden;2021;Fruit and Vegetables ;175;92,23
+Sweden;2021;Oils and Fats ;692;94,18
+Sweden;2021;Meat ;404;97,72
+Sweden;2021;Dairy and Eggs ;441;94,5
+Sweden;2022;Fruit and Vegetables ;174;91,755
+Sweden;2022;Cereals and Grains ;775;99,72
+Sweden;2022;Dairy and Eggs ;444;99,68
+Sweden;2022;Oils and Fats ;651;97,14
+Sweden;2022;Meat ;416;99,88
+Switzerland;2014;Cereals and Grains ;731;100,3
+Switzerland;2014;Fruit and Vegetables ;150;97,3
+Switzerland;2014;Oils and Fats ;723;92,7
+Switzerland;2014;Meat ;493;96,5
+Switzerland;2014;Dairy and Eggs ;416;102,2
+Switzerland;2015;Fruit and Vegetables ;153;102,3
+Switzerland;2015;Cereals and Grains ;729;100,1
+Switzerland;2015;Dairy and Eggs ;426;101,8
+Switzerland;2015;Oils and Fats ;753;92,4
+Switzerland;2015;Meat ;497;96,2
+Switzerland;2016;Dairy and Eggs ;430;102,6
+Switzerland;2016;Fruit and Vegetables ;161;106,2
+Switzerland;2016;Cereals and Grains ;730;102,3
+Switzerland;2016;Meat ;497;98,5
+Switzerland;2016;Oils and Fats ;732;94,5
+Switzerland;2017;Cereals and Grains ;693;105,7
+Switzerland;2017;Meat ;495;103,4
+Switzerland;2017;Dairy and Eggs ;427;106,8
+Switzerland;2017;Fruit and Vegetables ;173;106,3
+Switzerland;2017;Oils and Fats ;760;100,7
+Switzerland;2018;Oils and Fats ;747;98,9
+Switzerland;2018;Meat ;490;100,4
+Switzerland;2018;Dairy and Eggs ;433;103,7
+Switzerland;2018;Fruit and Vegetables ;186;100,45
+Switzerland;2018;Cereals and Grains ;740;105,2
+Switzerland;2019;Oils and Fats ;728;96,5
+Switzerland;2019;Meat ;502;99,6
+Switzerland;2019;Dairy and Eggs ;445;101,9
+Switzerland;2019;Fruit and Vegetables ;191;98,6
+Switzerland;2019;Cereals and Grains ;707;103,5
+Switzerland;2020;Oils and Fats ;749;98
+Switzerland;2020;Cereals and Grains ;749;100,7
+Switzerland;2020;Meat ;497;96,3
+Switzerland;2020;Dairy and Eggs ;440;99
+Switzerland;2020;Fruit and Vegetables ;195;88,25
+Switzerland;2021;Cereals and Grains ;683;100,4
+Switzerland;2021;Fruit and Vegetables ;194;94,15
+Switzerland;2021;Oils and Fats ;715;97,8
+Switzerland;2021;Meat ;477;96,7
+Switzerland;2021;Dairy and Eggs ;430;98,8
+Switzerland;2022;Fruit and Vegetables ;194;97,95
+Switzerland;2022;Cereals and Grains ;671;98,9
+Switzerland;2022;Dairy and Eggs ;438;100,1
+Switzerland;2022;Oils and Fats ;734;100,2
+Switzerland;2022;Meat ;477;100
+United Kingdom;2014;Cereals and Grains ;875;73
+United Kingdom;2014;Fruit and Vegetables ;203;72
+United Kingdom;2014;Oils and Fats ;618;63,1
+United Kingdom;2014;Meat ;497;73,6
+United Kingdom;2014;Dairy and Eggs ;391;77,6
+United Kingdom;2015;Fruit and Vegetables ;211;76,7
+United Kingdom;2015;Cereals and Grains ;876;75,1
+United Kingdom;2015;Dairy and Eggs ;386;79
+United Kingdom;2015;Oils and Fats ;664;69,3
+United Kingdom;2015;Meat ;509;76,2
+United Kingdom;2016;Dairy and Eggs ;390;90,9
+United Kingdom;2016;Fruit and Vegetables ;203;79,5
+United Kingdom;2016;Cereals and Grains ;890;80,7
+United Kingdom;2016;Meat ;503;77,4
+United Kingdom;2016;Oils and Fats ;607;79,8
+United Kingdom;2017;Cereals and Grains ;912;89,7
+United Kingdom;2017;Meat ;484;89,1
+United Kingdom;2017;Dairy and Eggs ;379;99,9
+United Kingdom;2017;Fruit and Vegetables ;209;89,45
+United Kingdom;2017;Oils and Fats ;626;85,3
+United Kingdom;2018;Oils and Fats ;626;84
+United Kingdom;2018;Meat ;479;89,8
+United Kingdom;2018;Dairy and Eggs ;384;99,7
+United Kingdom;2018;Fruit and Vegetables ;195;90,35
+United Kingdom;2018;Cereals and Grains ;906;89,9
+United Kingdom;2019;Oils and Fats ;642;93,3
+United Kingdom;2019;Meat ;483;92,8
+United Kingdom;2019;Dairy and Eggs ;388;101,8
+United Kingdom;2019;Fruit and Vegetables ;197;97,85
+United Kingdom;2019;Cereals and Grains ;906;95,7
+United Kingdom;2020;Oils and Fats ;609;105,4
+United Kingdom;2020;Cereals and Grains ;899;98,7
+United Kingdom;2020;Meat ;483;97,6
+United Kingdom;2020;Dairy and Eggs ;385;103,5
+United Kingdom;2020;Fruit and Vegetables ;203;98,9
+United Kingdom;2021;Cereals and Grains ;905;101,8
+United Kingdom;2021;Fruit and Vegetables ;200;104,35
+United Kingdom;2021;Oils and Fats ;608;105,5
+United Kingdom;2021;Meat ;483;101,6
+United Kingdom;2021;Dairy and Eggs ;383;104,1
+United Kingdom;2022;Fruit and Vegetables ;212;105,55
+United Kingdom;2022;Cereals and Grains ;890;105,1
+United Kingdom;2022;Dairy and Eggs ;384;106
+United Kingdom;2022;Oils and Fats ;609;106,5
+United Kingdom;2022;Meat ;476;104,1
+All;2014;Cereals and Grains ;910,6129032;74,10225806
+All;2014;Dairy and Eggs ;381,8064516;76,80064516
+All;2014;Fruit and Vegetables ;189,6129032;75,83435484
+All;2014;Meat ;416,5483871;82,6216129
+All;2014;Oils and Fats ;614,2903226;72,82774194
+All;2015;Cereals and Grains ;912,0967742;76,99774194
+All;2015;Dairy and Eggs ;381,9677419;78,67870968
+All;2015;Fruit and Vegetables ;195,1612903;80,70951613
+All;2015;Meat ;416,2580645;84,57967742
+All;2015;Oils and Fats ;626,7096774;74,96709677
+All;2016;Cereals and Grains ;916,6774194;85,92064516
+All;2016;Dairy and Eggs ;379,2258065;88,92580645
+All;2016;Fruit and Vegetables ;197,3548387;86,1533871
+All;2016;Meat ;424,1612903;87,77580645
+All;2016;Oils and Fats ;619,0322581;84,44645161
+All;2017;Cereals and Grains ;923,6774194;92,42258065
+All;2017;Dairy and Eggs ;382,1290323;92,27935484
+All;2017;Fruit and Vegetables ;195,1290323;88,91903226
+All;2017;Meat ;421,4193548;93,48516129
+All;2017;Oils and Fats ;623,9677419;91,0483871
+All;2018;Cereals and Grains ;932,8387097;91,49387097
+All;2018;Dairy and Eggs ;376,8064516;89,85032258
+All;2018;Fruit and Vegetables ;194,2580645;84,17467742
+All;2018;Meat ;417,8709677;92,43580645
+All;2018;Oils and Fats ;627,483871;86,85870968
+All;2019;Cereals and Grains ;945,3225806;93,77677419
+All;2019;Dairy and Eggs ;371,8064516;92,22258065
+All;2019;Fruit and Vegetables ;186,5806452;92,16435484
+All;2019;Meat ;415,7096774;92,43935484
+All;2019;Oils and Fats ;628,0645161;91,24290323
+All;2020;Cereals and Grains ;941,5806452;97,66709677
+All;2020;Dairy and Eggs ;372,7741935;96,31387097
+All;2020;Fruit and Vegetables ;191,7096774;88,37290323
+All;2020;Meat ;412,7096774;96,34129032
+All;2020;Oils and Fats ;629,9032258;98,7583871
+All;2021;Cereals and Grains ;946,3548387;99,57129032
+All;2021;Dairy and Eggs ;370,0967742;98,53709677
+All;2021;Fruit and Vegetables ;185,0645161;95,47322581
+All;2021;Meat ;411,1612903;100,7141935
+All;2021;Oils and Fats ;630,1935484;100,7567742
+All;2022;Cereals and Grains ;951,9354839;99,88290323
+All;2022;Dairy and Eggs ;374,6451613;101,4922581
+All;2022;Fruit and Vegetables ;190;96,84516129
+All;2022;Meat ;408,2580645;101,6077419
+All;2022;Oils and Fats ;629,0967742;101,323871
