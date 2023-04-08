@@ -11,8 +11,3 @@ plotly
 requests
 matplotlib
 plotly
-barplot
-raceplotly.plots
-spyder.wid
-html
-flask
