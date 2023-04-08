@@ -42,7 +42,8 @@ app = dash.Dash(__name__, server=server, external_stylesheets=[dbc.themes.LITERA
 #######################################################################################################################
 #######################################################################################################################
 
-basedir = "datafiles\\"
+basedir = 'https://github.com/martasustelo/dsaa-dv-2023/blob/master/datafiles/'
+
 
 trades = pd.DataFrame((pd.read_excel(basedir + "trades.xlsx")))
 
