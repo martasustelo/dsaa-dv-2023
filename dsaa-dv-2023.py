@@ -44,11 +44,11 @@ app = dash.Dash(__name__, server=server, external_stylesheets=[dbc.themes.LITERA
 
 basedir = 'https://github.com/martasustelo/dsaa-dv-2023/blob/master/datafiles/'
 
-trades = pd.DataFrame(pd.read_csv(basedir + "trades.csv"))
+trades = pd.DataFrame(pd.read_csv(basedir + "trades.csv", delimiter=';'))
 
-consump_price = pd.DataFrame(pd.read_csv(basedir + "scatter_consumption_price.csv"))
+consump_price = pd.DataFrame(pd.read_csv(basedir + "scatter_consumption_price.csv", delimiter=';'))
 
-consumption = pd.read_csv(basedir + "consumption.csv")
+consumption = pd.read_csv(basedir + "consumption.csv", delimiter=';')
 
 
 ####Data Cleaning
