@@ -45,11 +45,11 @@ app = dash.Dash(__name__, server=server, external_stylesheets=[dbc.themes.LITERA
 basedir = 'https://github.com/martasustelo/dsaa-dv-2023/blob/master/datafiles/'
 
 
-trades = pd.DataFrame((pd.read_excel(basedir + "trades.xlsx")))
+trades = pd.DataFrame(pd.read_excel(basedir + "trades.xlsx", engine='openpyxl'))
 
-consump_price = pd.DataFrame((pd.read_excel(basedir + "scatter_consumption_price.xlsx")))
+consump_price = pd.DataFrame(pd.read_excel(basedir + "scatter_consumption_price.xlsx", engine='openpyxl'))
 
-consumption = pd.read_excel(basedir + "consumption.xlsx")
+consumption = pd.read_excel(basedir + "consumption.xlsx", engine='openpyxl')
 
 
 ####Data Cleaning
