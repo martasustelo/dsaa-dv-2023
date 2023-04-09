@@ -44,9 +44,9 @@ app = dash.Dash(__name__, server=server, external_stylesheets=[dbc.themes.LITERA
 
 basedir = 'https://raw.githubusercontent.com/martasustelo/dsaa-dv-2023/master/datafiles/'
 
-trades = pd.read_csv(basedir + "trades.csv", delimiter=';')
+trades = pd.read_csv(basedir + "trades.csv", delimiter=',')
 consump_price = pd.read_csv(basedir + "scatter_consumption_price.csv", delimiter=';')
-consumption = pd.read_csv(basedir + "consumption.csv", delimiter=';')
+consumption = pd.read_csv(basedir + "consumption.csv", delimiter=',')
 
 
 
