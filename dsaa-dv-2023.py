@@ -1135,7 +1135,7 @@ def update_racechartproduct(country):
                                  animation_frame="date",
                                  range_x=[0, dfDataRaceProducts["inflation_from_start"].max() * 1.1],
                                  title='<b>Top 10 products most affected by inflation</b>',
-                                 labels={'prodname': 'Products','inflation_from_start': 'Inflation (%)})
+                                 labels={'prodname': 'Products','inflation_from_start': 'Inflation (%)'})
 
     fig_productraceplot.update_layout(
         title={
