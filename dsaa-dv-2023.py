@@ -1086,7 +1086,7 @@ def update_racechartcountry(product):
                                  value_column ='inflation_from_start',
                                  time_column = 'date')
     my_countryraceplot.plot(item_label='Countries',
-                            value_label='Inflation(%)',
+                            value_label='Inflation (%)',
                             frame_duration=130
                             )
     my_countryraceplot.fig.layout.plot_bgcolor = '#FAFAFA'
@@ -1100,8 +1100,8 @@ def update_racechartcountry(product):
             'text': '<b>Top 10 countries most affected by inflation<b>',
             'font': {'color': 'black', 'size': 25}
         },
-        xaxis_title='Years',
-        yaxis_title='Inflation (%)',
+        xaxis_title='Inflation (%)',
+        yaxis_title='Countries',
         xaxis=dict(
             titlefont=dict(color='black', size=12),
             tickfont=dict(color='black', size=10)
@@ -1129,13 +1129,13 @@ def update_racechartproduct(country):
 
     # Criar um gráfico de barras animado usando Plotly Express
     fig_productraceplot = px.bar(dfDataRaceProducts,
-                                 y="inflation_from_start",
-                                 x="prodname",
+                                 y="prodname",
+                                 x="inflation_from_start",
                                  orientation='h',
                                  animation_frame="date",
                                  range_x=[0, dfDataRaceProducts["inflation_from_start"].max() * 1.1],
                                  title='<b>Top 10 products most affected by inflation</b>',
-                                 labels={'inflation_from_start': 'Inflation (%)','prodname': 'Products'})
+                                 labels={'prodname': 'Products','inflation_from_start': 'Inflation (%)})
 
     fig_productraceplot.update_layout(
         title={
