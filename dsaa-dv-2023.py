@@ -532,7 +532,6 @@ app.layout = html.Div([
                                                 id='race_product_dropdown',
                                                 
                                                 options = dfListProductsforDataRace,
-                                                # options=[{'label': i, 'value': i} for i in dfDataRaceCountries['name'].unique()],
                                                 multi=False,
                                                 value="All",
                                                 placeholder="All",
@@ -1102,7 +1101,7 @@ def update_racechartcountry(product):
             'font': {'color': 'black', 'size': 25}
         },
         xaxis_title='Years',
-        yaxis_title='Countries',
+        yaxis_title='Inflation (%)',
         xaxis=dict(
             titlefont=dict(color='black', size=12),
             tickfont=dict(color='black', size=10)
@@ -1130,13 +1129,13 @@ def update_racechartproduct(country):
 
     # Criar um gráfico de barras animado usando Plotly Express
     fig_productraceplot = px.bar(dfDataRaceProducts,
-                                 y="prodname",
-                                 x="inflation_from_start",
+                                 y="inflation_from_start",
+                                 x="prodname",
                                  orientation='h',
                                  animation_frame="date",
                                  range_x=[0, dfDataRaceProducts["inflation_from_start"].max() * 1.1],
                                  title='<b>Top 10 products most affected by inflation</b>',
-                                 labels={'prodname': 'Products', 'inflation_from_start': 'Inflation (%)'})
+                                 labels={'inflation_from_start': 'Inflation (%)','prodname': 'Products'})
 
     fig_productraceplot.update_layout(
         title={
