@@ -1129,8 +1129,8 @@ def update_racechartproduct(country):
 
     # Criar um gráfico de barras animado usando Plotly Express
     fig_productraceplot = px.bar(dfDataRaceProducts,
-                                 y="prodname",
-                                 x="inflation_from_start",
+                                 y="inflation_from_start",
+                                 x="prodname",
                                  orientation='h',
                                  animation_frame="date",
                                  range_x=[0, dfDataRaceProducts["inflation_from_start"].max() * 1.1],
