@@ -283,7 +283,7 @@ app.layout = html.Div([
                         src='https://imgcloud.s3.us-east-1.wasabisys.com/APT8ffOBiR.png',
                         style={
                             'position': 'absolute',
-                            'top': '80%',
+                            'top': '78%',
                             'left': '80%',
                             'transform': 'translate(-50%, -50%)',
                             'zIndex': 0,
@@ -406,7 +406,7 @@ app.layout = html.Div([
                         src='https://imgcloud.s3.us-east-1.wasabisys.com/Jn5QIkoqFI.png',
                         style={
                             'position': 'absolute',
-                            'top': '188%',
+                            'top': '187%',
                             'left': '68.2%',
                             'transform': 'translate(-50%, -50%)',
                             'zIndex': 1,
