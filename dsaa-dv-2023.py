@@ -406,7 +406,7 @@ app.layout = html.Div([
                         src='https://imgcloud.s3.us-east-1.wasabisys.com/Jn5QIkoqFI.png',
                         style={
                             'position': 'absolute',
-                            'top': '213%',
+                            'top': '190%',
                             'left': '68.2%',
                             'transform': 'translate(-50%, -50%)',
                             'zIndex': 1,
