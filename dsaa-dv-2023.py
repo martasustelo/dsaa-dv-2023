@@ -186,7 +186,7 @@ def chartrace_products(countries=None):
 
 
 choroplethdata("2008", "2022", "CP011")
-chartrace_countries("CP011")
+chartrace_countries("Food")
 chartrace_products("All")
 
 
